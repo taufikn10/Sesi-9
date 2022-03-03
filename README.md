@@ -1,6 +1,6 @@
 # Sesi-9
 
-Untuk Menjalankan Instalasi React manual <br>
+###Untuk Menjalankan Instalasi React manual <br>
 Install React dan React Dom
 ```bash
 > npm install react --save
